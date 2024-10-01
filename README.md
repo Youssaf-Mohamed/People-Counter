@@ -42,7 +42,4 @@ This project is a computer vision application designed to track and count people
    ```bash
    cd People-Counter
    ```
-3. Run the main script:
-   ```bash
-   python your_script.py
-   ```
+
